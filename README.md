@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Single Lead ECG Signal acquisition and classification using Deep Convolutional Networks
 Single Lead ECG signal Acquisition and Arrhythmia Classification using Deep Learning
 
