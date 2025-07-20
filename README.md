@@ -2,14 +2,6 @@
 # Arrhythmia Detection using Single Lead ECG Signal and classification using Deep Convolutional Networks
 Single Lead ECG signal Acquisition and Arrhythmia Classification using Deep Learning
 
-
-
-This project contain two parts,
-
-1. ECG signal Acquasition
-
-2. Arrhythmia classification of the acquired ECG signal.
-
 ## Files
 
 - [`ecg`](ecg) : This folder contains all the files for training and testing of the deep learning algorithm and this code will be used to classifiy the acquired signals. The code in this folder is developed by the awesome team of Awni et al, StanfordML Group. I have just modified it to work with python3 and few other changes for my comfort of use.
