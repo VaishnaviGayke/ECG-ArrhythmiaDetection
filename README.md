@@ -144,5 +144,4 @@ You can download the single lead ECG signals for training here: https://physione
 
 For detailed information please refer to [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://stanfordmlgroup.github.io/projects/ecg2/) by Awni Y. Hannun*, Pranav Rajpurkar*, Masoumeh Haghpanahi*, Geoffrey H. Tison*, Codie Bourn, Mintu P. Turakhia, Andrew Y. Ng.
 =======
-# ECG-ArrhythmiaDetection
->>>>>>> 2f1334cf70408053da72c79a7bbc301b8df14d30
+
